@@ -1,4 +1,5 @@
 ## Data Science/Analytics Portfolio
+### *SkillBased Projects*
 ***
 #### [Moringa School Chatbot AI Project](https://github.com/FREDRICKKYEKI/Moringa-AI-Chatbot)
 > <p style="font-size:10px;">The Moringa School Chatbot project aimed to develop an AI chatbot for Moringa School's website. The chatbot aims to understand user queries, connect users to key information about courses and enrollment, and provide technical support for any issues faced by visitors. The chatbot will leverage the Natural Language Toolkit (NLTK) for natural language processing, ensuring a comprehensive understanding of user inquiries.</p>
@@ -15,5 +16,21 @@
 * **Project**: [Power BI](https://app.powerbi.com/links/LQGEuqArff?ctid=6b50791c-a474-4b8d-899a-9049d80d3eac&pbi_source=linkShare)
 
 #### [Part 3: Communicating Findings in Maji Ndogo](https://github.com/ksila01/Maji_Ndogo_Part3)
->The national dashboard provided a detailed overview of the population distribution, challenges, budget requirements, current water access levels, and the costs associated with improving water sources in the Maji Ndogo region. This tool is designed to keep the public informed about ongoing efforts while enabling decision-makers to monitor and manage the project effectively.
+> The national dashboard provided a detailed overview of the population distribution, challenges, budget requirements, current water access levels, and the costs associated with improving water sources in the Maji Ndogo region. This tool is designed to keep the public informed about ongoing efforts while enabling decision-makers to monitor and manage the project effectively.
 * **Project**: [Power BI](https://app.powerbi.com/links/LQGEuqArff?ctid=6b50791c-a474-4b8d-899a-9049d80d3eac&pbi_source=linkShare)
+#### [Sales Analysis Project](https://github.com/ksila01/SalesAnalysisProject.git)
+> This project revolves around a comprehensive analysis of sales data aimed at extracting crucial insights for strategic business decisions. By leveraging Power BI, I conducted an in-depth examination of a substantial dataset, unveiling trends, identifying top-selling products, and calculating essential revenue metrics. This project underscores my expertise in navigating and interpreting extensive datasets, enabling me to provide actionable recommendations for enhancing sales strategies.
+* **Project**: [Power BI](https://github.com/ksila01/SalesAnalysisProject.git)
+### Machine Learning Projects
+#### [Diabetes Prediction](https://github.com/ksila01/DiabetesPrediction.git)
+> The goal of this machine learning project is to develop a diabetes prediction system using logistic regression. This system will help in early identification of individuals who may be at risk of developing diabetes based on certain health-related features. The deployment will be done through a Django web application, providing a user-friendly interface for individuals to input their health data and receive predictions regarding their likelihood of being diabetic.
+### Deep Learning
+#### [Automated Identification of Plant Leaf Disease](https://github.com/Iswana-O/Deep-Learning-for-Automated-Identification-of-Plant-Leaf-Diseases.git)
+> The aim of this project is to develop a CNN model for identifying and classifying potato plant leaf diseases to improve disease management in agriculture. By leveraging deep learning and image recognition, this model will assist farmers in timely and accurate disease detection. The ultimate goal is to enhance crop yields, promote better agricultural practices, and support food security through the integration of modern technology into farming.
+
+
+
+
+
+
+
